@@ -155,3 +155,6 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+Information
+Supanut Maneeyot 642115044
